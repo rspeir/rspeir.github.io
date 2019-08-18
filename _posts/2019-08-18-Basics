@@ -1,9 +1,9 @@
 ---
-title: Very Basic Things
+title: Boring Blinking LEDs
 layount: post
 ---
 
-Well, let's get started with the easiest, most boring project of all: a button that lights an LED.
+Well, let's get started with the easiest, most boring project of all: a button that lights an LED when you press it.
 
 ```verilog
 module top ( input BTN1,
