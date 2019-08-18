@@ -60,7 +60,8 @@ h3 {
 }
 
 h4 {
-  font-size: 18px;
+  font-size: inherit;
+  font-weight: 700;
   color: $gray;
 }
 
@@ -263,7 +264,7 @@ nav {
   }
 
   .post_title {
-    font-size: 80;  
+    font-size: 30;  
     line-height: 60%;
   }
   .comments {
