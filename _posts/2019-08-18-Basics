@@ -1,4 +1,15 @@
 ---
 title: Very Basic Things
-layount: default
+layount: post
 ---
+
+Well, let's get started with the easiest, most boring project of all: a button that lights an LED.
+
+```verilog
+module top ( input BTN1,
+             output LED1);
+
+assign LED1 = BTN;
+
+endmodule
+```
