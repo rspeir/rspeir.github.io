@@ -1,6 +1,5 @@
 @import "reset";
 @import "variables";
-@import "highlights";
 
 html {
   font-size: 100%;
@@ -18,3 +17,5 @@ body {
   padding: 0 10px;
   width: 100%;
 }
+
+@import "highlights";
